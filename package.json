@@ -1,0 +1,14 @@
+{
+  "name": "@individualorg/typemachine",
+  "version": "1.0.4",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "read_file":"./read.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
