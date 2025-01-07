@@ -1,1 +1,6 @@
-Greeting 체인지 테스트 체인지 테스트end/.
+VITE_API_URL=https://api.stg.gistalk.gistory.me
+VITE_REDIRECT_URL=http://127.0.0.1:5173/login
+VITE_ORIGIN_URL=http://127.0.0.1:5173
+VITE_BASE_URL=/api
+safasfsdfae
+ertaestwrwertwetweasdfasdfjkjkkjdafa

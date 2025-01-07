@@ -1,4 +1,2 @@
-#!/usr/bin/env node
-let greeting = require('./index');
-console.log(process.argv);
-console.log("Greeting : "+greeting[process.argv[2]]);
+const elem = document.getElementById("root");
+if(elem != null) elem.innerText = 'hello'; 
